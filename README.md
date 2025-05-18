@@ -1,108 +1,78 @@
-<!-- GitHub Profile README.md -->
+<!-- GitHub Profile README -->
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+[YourName]!;AI+Engineer+%7C+ML+Builder+%7C+Open+Source+Enthusiast;&center=true&width=500&height=45&font=Fira+Code&color=00A8E8&pause=1000" />
+<h1 align="center">Hi, I'm Chinmay Pardeshi 👋</h1>
 
-<br/>
-
-<img src="https://r2.gptseek.com/pin_review_scholar.png" width="100%">
-
-## 👋 About Me
-
-🎓 AI & Deep Learning enthusiast with a strong passion for building practical, real-world applications using:
-- 🤖 NLP
-- 📊 Data Analytics
-- 🎥 Video and Audio Processing
-- 📸 Computer Vision
-- 📦 MLOps & Transformers
+<p align="center">
+I'm a passionate software developer and AI enthusiast with a strong foundation in <b>python</b>, and deep learning. I love building real-world applications using cutting-edge technologies like <b>LangChain</b>, <b>Gemini AI</b>, <b>MMRotate</b>, and more.
+</p>
 
 ---
 
-## 🚀 Projects Showcase
+## 🛠️ Technologies & Tools
 
-### 📦 1. [Gemini Nutrition Analyzer](https://github.com/yourusername/gemini-nutrition-analyzer)
-> AI-powered food image analyzer that estimates calories and nutritional facts using Google Gemini Vision.
+### 🧑‍💻 Languages
+- Java • Python • SQL • HTML & CSS • JavaScript
 
-<img src="assets/gemini-food-demo.png" width="600"/>
+### 🚀 Frameworks & Libraries
+- Flask • React.js • Streamlit • LangChain • PyTorch • OpenMMLab
 
-- 🧠 Gemini Pro Vision
-- 🥦 Image-to-Text for Nutrition
-- 🔍 Health insights from food photos
-
----
-
-### 💬 2. [Natural Language to SQL Generator](https://github.com/yourusername/natural-language-sql-generator)
-> Enter plain English queries and generate SQL code with results using LangChain + Google Generative AI.
-
-<img src="assets/sql-gen.png" width="600"/>
-
-- 🧠 LearnLM 2.0 model
-- 💾 Works with MySQL & SQLite
-- 🧪 LangChain + Streamlit UI
+### 🛠️ Tools & Platforms
+- MySQL • IntelliJ IDEA • VS Code • GitHub • Google Colab • MMRotate • Kaggle
 
 ---
 
-### 🎥 3. [YouTube AI Video Summarizer](https://github.com/yourusername/youtube-ai-video-summarizer)
-> Automatically summarizes YouTube video transcripts into bullet points using Gemini AI.
+## 🔥 AI/ML Projects
 
-<img src="assets/youtube-summary.png" width="600"/>
+### 🍽️ [Gemini Nutrition Analyzer](https://github.com/chinmay-pardeshi/gemini-nutrition-analyzer)
+> Upload a food image and get a detailed calorie + nutrition breakdown using Gemini Pro Vision.
 
-- 📼 Transcript extraction
-- 🧠 Summary under 250 words
-- 📌 Ideal for content curators & students
+![Nutrition](assets/gemini-food-demo.png)
 
 ---
 
-### 🎙️ 4. [Speech-to-Text & Translation App](https://github.com/yourusername/speech-to-text-translator)
-> Transcribe your voice or uploaded audio files and translate to Hindi, Marathi, or English.
+### 🧠 [Natural Language to SQL Generator](https://github.com/chinmay-pardeshi/natural-language-sql-generator)
+> Converts English questions into SQL queries using LangChain + LearnLM + Streamlit UI.
 
-<img src="assets/speech-translate.png" width="600"/>
-
-- 🎤 SpeechRecognition + Google Translate
-- 📁 Upload `.wav` or `.mp3`
-- 🗣️ Great for multilingual communication
+![SQL Gen](assets/sql-gen.png)
 
 ---
 
-### 🧠 5. [Vision Transformer (ViT) Image Classifier](https://github.com/yourusername/vision-transformer-vit-demo)
-> Fine-tune or train Vision Transformer models (ViT) from scratch or with pretrained weights.
+### 🎬 [YouTube Video Summarizer](https://github.com/chinmay-pardeshi/youtube-ai-video-summarizer)
+> Summarizes YouTube transcripts into bullet-point notes using Gemini AI.
 
-<img src="assets/vit-demo.png" width="600"/>
-
-- 🔎 Torchvision ViT models
-- 🏷️ Classifies custom image sets
-- 🧪 Transfer learning and from-scratch variants
+![YT](assets/youtube-summary.png)
 
 ---
 
-### 🌀 6. [Oriented Object Detection – MMRotate](https://github.com/yourusername/mmrotate-orienteddetection)
-> Detect rotated objects using ReDet and Oriented R-CNN on aerial datasets (DOTA).
+### 🎙️ [Speech-to-Text & Translation App](https://github.com/chinmay-pardeshi/speech-to-text-translatora)
+> Record audio or upload files, transcribe and translate into Hindi, Marathi, or English.
 
-<img src="assets/mmrotate-demo.png" width="600"/>
-
-- 📐 Oriented bounding boxes
-- 🛰️ Ideal for satellite & document imagery
-- ✅ Based on MMRotate by OpenMMLab
+![Speech](assets/speech-translate.png)
 
 ---
 
-## 🛠️ Tech Stack
+### 🧪 [ViT Image Classifier](https://github.com/chinmay-pardeshi/vision-transformer-vit-demo)
+> Fine-tunes pretrained Vision Transformer (ViT) and trains from scratch on image datasets.
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-blueviolet)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![GoogleAI](https://img.shields.io/badge/-Google%20AI-4285F4?style=flat&logo=google)
-![MMRotate](https://img.shields.io/badge/-MMRotate-1188AA?style=flat)
+![ViT](assets/vit-demo.png)
 
 ---
 
-## 📫 Connect With Me
+### 📐 [Oriented Object Detection with MMRotate](https://github.com/chinmay-pardeshi/mmrotate-orienteddetection)
+> Object detection using ReDet and Oriented R-CNN on rotated datasets like DOTA.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chinmay-pardeshi/)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 📧 Email: chinmaypardeshi22@email.com
+![MMRotate](assets/mmrotate-demo.png)
 
 ---
 
-> Built with 💙 using AI tools, passion, and coffee ☕.
+## 📫 Contact Me
+
+- 📧 Email: [chinmaypardeshi22@gmail.com](mailto:chinmaypardeshi22@gmail.com)
+- 🔗 LinkedIn: [Chinmay Pardeshi](https://www.linkedin.com/in/chinmay-pardeshi/)
+
+---
+
+<p align="center">
+  Made with 💻, 🤖, and ☕ by Aditya Pawar
+</p>
 
