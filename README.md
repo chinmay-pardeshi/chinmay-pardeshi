@@ -73,6 +73,7 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
 ---
 
 <p align="center">
-  Made with 💻, 🤖, and ☕ by Aditya Pawar
+  Made with 💻, 🤖, and ☕ by Chinmay Pardeshi
+
 </p>
 
