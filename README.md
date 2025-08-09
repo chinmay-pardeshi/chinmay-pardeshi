@@ -98,7 +98,7 @@ Feel free to reach out for collaborations, opportunities, or just to discuss AI/
 
 ### Thanks for visiting my profile! 🚀
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=chinmay-pardeshi&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=chinmay-pardeshi&color=brightgreen&style=flat-square)
 
 *"The best way to predict the future is to create it with AI"* 
 
