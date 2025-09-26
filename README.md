@@ -5,7 +5,9 @@
 I'm passionate about building intelligent systems and extracting insights from data. Currently seeking entry-level opportunities in Data Science, Machine Learning, and AI Development.
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-pardeshi/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pardeshichinmay16@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-pardeshi/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pardeshichinmay16@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://chinmay-portfolio-drab.vercel.app/) 
 
 ## 🚀 Featured Projects
 
