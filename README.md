@@ -7,7 +7,7 @@ I'm passionate about building intelligent systems and extracting insights from d
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-pardeshi/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pardeshichinmay16@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?logo=internet-explorer&logoColor=white)](https://chinmay-portfolio-drab.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=githubpages&logoColor=white)](https://chinmay-portfolio-drab.vercel.app/)
 
 
 ## 🚀 Featured Projects
