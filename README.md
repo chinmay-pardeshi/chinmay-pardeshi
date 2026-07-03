@@ -1,78 +1,199 @@
 # Hi there, I'm Chinmay Pardeshi! 👋
 
-🎓 **Recent Graduate** | 🤖 **AI/ML Enthusiast** | 📊 **Aspiring Data Scientist**
+🎓 **Recent B.Tech CSE (AI) Graduate** | 📊 **Aspiring Data Analyst & Data Scientist** | 🤖 **AI/ML Enthusiast**
 
-I'm passionate about building intelligent systems and extracting insights from data. Currently seeking entry-level opportunities in Data Science, Machine Learning, and AI Development.
+I enjoy working with data, building machine learning applications, and turning real-world problems into practical solutions. My experience includes **Data Analytics, Machine Learning, Computer Vision, NLP, Generative AI, and full-stack AI application development**.
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-pardeshi/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pardeshichinmay16@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=githubpages&logoColor=white)](https://chinmay-portfolio-drab.vercel.app/)
+I am currently seeking **entry-level opportunities in Data Analytics, Data Science, and Machine Learning**.
 
+## 🌐 Connect with Me
 
-## 🚀 Featured Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-pardeshi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pardeshichinmay16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chinmay-portfolio-drab.vercel.app/)
 
-### [🎯 Smart ATS Resume Scanner](https://smart-ats-resume-scanner-version1.streamlit.app/)
-**Tech Stack:** Python, Streamlit, NLP, AI  
-Resume optimization tool using AI to match job descriptions and improve ATS compatibility  
-*🔗 Live Demo Available*
-
-### [🥗 Gemini Nutrition Analyzer](https://gemini-nutrition-analyzer-version1.streamlit.app/)
-**Tech Stack:** Python, Gemini API, Computer Vision, Streamlit  
-AI-powered nutritional analysis from food images with detailed calorie and nutrient breakdown  
-*🔗 Live Demo Available*
-
-### [💬 Gemini Streamlit Chatbot](https://gemini-app-chatbot-version1.streamlit.app/)
-**Tech Stack:** Python, Streamlit, Gemini API  
-Interactive AI chatbot with conversational AI capabilities  
-*🔗 Live Demo Available*
-
-### [👁️ Gemini Vision Chat](https://gemini-vision-chat-version1.streamlit.app/)
-**Tech Stack:** Python, Computer Vision, Gemini API  
-Multi-modal AI application combining vision and chat capabilities  
-*🔗 Live Demo Available*
-
-### [🗣️ Speech to Text Translator](https://speech-to-text-translator-version1.streamlit.app/)
-**Tech Stack:** Python, Speech Recognition, Translation APIs  
-Real-time speech recognition with multi-language translation support  
-*🔗 Live Demo Available*
-
-### [📺 YouTube AI Video Summarizer](https://youtube-ai-video-summarizer-version.streamlit.app/)
-**Tech Stack:** Python, NLP, YouTube API, AI Summarization  
-Intelligent video content summarization using advanced NLP techniques  
-*🔗 Live Demo Available*
-
-## 🔥 Currently Working On
-
-- 🚧 **Voice Cloning Application** - Deep learning model for voice synthesis and replication
-- 📄 **Chat with PDF** - RAG-based document interaction system for intelligent PDF querying
-- 🗃️ **SQL to LLM** - Natural language to SQL query converter using large language models
-
-## 🛠️ Core Competencies
-
-**Machine Learning & AI:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Data Science & Analytics:**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Programming & Development:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Tools:**  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-**Cloud & Database:**  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+---
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Voice Cloning and RAG-based PDF interaction systems
-- 🌱 **Learning:** Advanced ML techniques, LLMs, and cloud deployment strategies
-- 💡 **Interested in:** Computer Vision, Natural Language Processing, and Generative AI
-- 🎯 **Goal:** To contribute to innovative AI solutions that solve real-world problems
-- 📫 **Reach me at:** pardeshichinmay16@gmail.com
-- ⚡ **Fun fact:** I love experimenting with cutting-edge AI models and turning complex problems into interactive web applications!
+- 🎓 Recent graduate with a **B.Tech in Computer Science and Engineering (Artificial Intelligence)**
+- 💼 Former intern at **DRDO** and **Infosys Springboard**
+- 📊 Focused on **Data Analytics, Data Science, and Machine Learning**
+- 🧹 Experienced in **data cleaning, exploratory data analysis, feature engineering, and visualization**
+- 🤖 Built projects using **Machine Learning, NLP, Computer Vision, LLMs, and Generative AI**
+- 🌱 Currently strengthening my skills in **SQL, Power BI, Machine Learning, and end-to-end data projects**
+- 🎯 Career goal: Start as a **Data Analyst / Data Science professional** and grow into a **Data Scientist**
+- 📫 Reach me at **pardeshichinmay16@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+### 🎙️ [TranscribeFlow – AI Audio Transcription Web App](https://github.com/chinmay-pardeshi/TranscribeFlow)
+
+**Infosys Springboard Internship Project**
+
+**Tech Stack:** Python, Flask, OpenAI Whisper, BART, Groq LLaMA 3.1, JWT, Argon2, OAuth, ReportLab
+
+A full-stack AI-powered web application that transforms audio into intelligent and accessible content through transcription, summarization, translation, and multilingual document export.
+
+**Key Features:**
+- 🎧 Transcribes MP3 and WAV audio files with timestamps using OpenAI Whisper
+- 📝 Summarizes transcripts using BART-large-CNN
+- 🌍 Supports multilingual translation
+- 📄 Exports transcripts as TXT and multilingual PDF files
+- 🔐 Implements JWT authentication, Argon2 password hashing, OTP login, Google OAuth, and password reset
+- 🤖 Includes FlowBot, an AI assistant powered by Groq's LLaMA 3.1 API
+- 📁 Supports audio upload, playback, download, and deletion
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmay-pardeshi/TranscribeFlow)
+
+---
+
+### 🎯 [Smart ATS Resume Scanner](https://smart-ats-resume-scanner-version1.streamlit.app/)
+
+**Tech Stack:** Python, Streamlit, NLP, AI
+
+An AI-powered resume optimization tool that compares resumes with job descriptions and helps evaluate ATS compatibility.
+
+**Key Features:**
+- Analyzes resume content against job descriptions
+- Identifies relevant keywords and missing skills
+- Provides AI-generated feedback for resume improvement
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-ats-resume-scanner-version1.streamlit.app/)
+
+---
+
+### 🥗 [Gemini Nutrition Analyzer](https://gemini-nutrition-analyzer-version1.streamlit.app/)
+
+**Tech Stack:** Python, Gemini API, Computer Vision, Streamlit
+
+An AI-powered application that analyzes food images and provides estimated calorie and nutritional information.
+
+**Key Features:**
+- Accepts food images as input
+- Identifies food items using multimodal AI
+- Generates calorie and nutrient estimates
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://gemini-nutrition-analyzer-version1.streamlit.app/)
+
+---
+
+### 💬 [Gemini Streamlit Chatbot](https://gemini-app-chatbot-version1.streamlit.app/)
+
+**Tech Stack:** Python, Streamlit, Gemini API
+
+An interactive conversational AI application built using the Gemini API and Streamlit.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://gemini-app-chatbot-version1.streamlit.app/)
+
+---
+
+### 👁️ [Gemini Vision Chat](https://gemini-vision-chat-version1.streamlit.app/)
+
+**Tech Stack:** Python, Computer Vision, Gemini API, Streamlit
+
+A multimodal AI application that allows users to interact with image content through natural-language prompts.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://gemini-vision-chat-version1.streamlit.app/)
+
+---
+
+### 🗣️ [Speech to Text Translator](https://speech-to-text-translator-version1.streamlit.app/)
+
+**Tech Stack:** Python, Speech Recognition, Translation APIs, Streamlit
+
+A speech-processing application that converts spoken input into text and supports multilingual translation.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://speech-to-text-translator-version1.streamlit.app/)
+
+---
+
+### 📺 [YouTube AI Video Summarizer](https://youtube-ai-video-summarizer-version.streamlit.app/)
+
+**Tech Stack:** Python, NLP, YouTube API, AI Summarization, Streamlit
+
+An AI application that extracts video content and generates concise summaries to help users understand long videos quickly.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://youtube-ai-video-summarizer-version.streamlit.app/)
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Databases
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Analytics & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Machine Learning & AI
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-006699?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+
+### Frameworks, Deployment & Tools
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 💼 Internship Experience
+
+### 🏢 Infosys Springboard – AI/ML Intern
+
+- Developed **TranscribeFlow**, a full-stack AI audio transcription platform
+- Integrated speech-to-text, summarization, translation, authentication, and AI chatbot features
+- Worked with Flask APIs, AI models, authentication systems, and document generation
+
+### 🛡️ DRDO – Computer Vision Intern
+
+- Worked on a computer vision project involving **object detection**
+- Gained practical exposure to image datasets, model training, bounding boxes, IoU, and evaluation metrics
+- Applied machine learning concepts to a real-world research environment
+
+---
+
+## 📚 Currently Learning & Improving
+
+- Advanced SQL and analytical problem-solving
+- Power BI dashboards and business insights
+- Machine Learning algorithms and model evaluation
+- Feature engineering and end-to-end ML workflows
+- Statistics for Data Science
+- Deployment of data and AI applications
+
+---
+
+## 🎯 Open to Opportunities
+
+I am actively seeking entry-level opportunities in:
+
+- 📊 **Data Analytics**
+- 🔬 **Data Science**
+- 🤖 **Machine Learning**
+- 🧠 **AI Development**
+- 📈 **Business Intelligence**
+
+I am open to full-time roles, internships, collaborations, and opportunities where I can solve real-world problems using data and AI.
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -82,18 +203,11 @@ Intelligent video content summarization using advanced NLP techniques
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=chinmay-pardeshi&theme=dark&hide_border=false)
 
+---
+
 ## 🏆 GitHub Achievements
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chinmay-pardeshi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-## 💼 Open to Opportunities
-
-I'm actively seeking **entry-level positions** in:
-- 🔬 Data Science
-- 🤖 Machine Learning Engineering  
-- 🧠 AI Development
-- 📊 Business Intelligence & Analytics
-
-Feel free to reach out for collaborations, opportunities, or just to discuss AI/ML!
 
 ---
 
@@ -103,8 +217,6 @@ Feel free to reach out for collaborations, opportunities, or just to discuss AI/
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chinmay-pardeshi&color=brightgreen&style=flat-square)
 
-*"The best way to predict the future is to create it with AI"* 
+**Let's connect and build something meaningful with data and AI.**
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
